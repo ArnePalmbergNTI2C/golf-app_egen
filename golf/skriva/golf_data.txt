@@ -1,5 +1,7 @@
-1	Albert Hansson
-2	Daniel Svärd
+OBS. Detta är rankinglistan. Här ska alla person på listan läggas in. Här ska det vara (plats,Förnamn,Efternamn). T.ex 1 Albert Hansson. Viktigt med Stor bokstav i förnamn och efternamn. Första namnet måste börja på rad 3. För att få fram denna listan kan man kopiera hela rankinglistan och sen lägga in den i ett kalkylark. Sen kopiera raderna med placering och namn och sen lägga in här.
+
+1   Albert Hansson
+2   Daniel Svärd
 3	Jakob Melin
 4	Erik Johansson
 5	Simon Hovdal
@@ -10,11 +12,11 @@
 10	Didrik Ringvall Bengtsson
 11	Alfons Bondesson
 12	William Wistrand
-13	August Petersson
+13  August Petersson
 14	Alexander Lindström
 15	Malte Lindell
 16	Neo Berg
-17	Jonathan Ericsson
+17  Jonathan Ericsson
 18	Erik Sabelström Holmberg
 19	Daniel Tolf
 20	Oscar Björkqvist
@@ -37,7 +39,7 @@
 37	Carl Annerfelt
 38	Carl Möller
 39	Erik Tjärnberg
-40	Filip Grave
+40  Filip Grave
 41	Viggo Olsson Mörk
 42	Anton Hedliden
 43	Gabriel Lindahl
@@ -789,7 +791,7 @@
 789	Elias Bäckström
 790	Gustav Lif
 791	Ludvig Ransjö
-792	Joel Hjertström
+791	Joel Hjertström
 793	Arvid Hultman
 794	Elliot Glisell Åkerblom
 795	Emil Hermansson
@@ -831,7 +833,7 @@
 831	Fabian Englund Lövgren
 832	Oskar Sterner
 833	Åke Olsson
-833	Anton Stralström
+834	Anton Stralström
 835	Leo Attini
 836	Tor Zachrisson
 837	Sam Olsson Kjellin
@@ -857,8 +859,8 @@
 857	Niklas Wiktorson
 858	Oscar Holck
 859	Axel Skillborg
-860	Fredrik Lilliehöök
 860	Andreas Mårtensson
+861	Fredrik Lilliehöök
 862	Felix Nemlin
 863	Isak Jansson Nilsson
 864	Anton Norrman
@@ -956,7 +958,7 @@
 956	Elias Ljungberg
 957	Alexander Tomsson
 958	Theodor Skåpe
-959	Elias Pettersson
+958	Elias Pettersson
 960	Jakob Erlandsson
 961	Marcus Aronsson
 962	Albin Johansson
@@ -1015,11 +1017,11 @@
 1014	Hugo Lisecke
 1016	Simon Kjellner
 1017	Werner Kazmierczak
+1018	Sebastian Westervall
+1018	Lukas Lindqvist
 1018	Gustaf Aili
+1018	Emil Florin
 1018	Viktor Löv
-1020	Emil Florin
-1020	Sebastian Westervall
-1020	Lukas Lindqvist
 1023	Emrik Olsson
 1024	Viktor Lauritzen
 1025	Måns Magnebrant
@@ -1093,10 +1095,10 @@
 1093	Gustav Berlin
 1093	Valter Lennholm
 1095	Oskar Haglund
+1096	John Björsander
 1096	Douglas Fredriksson
 1096	Albin Nilsson
 1096	Rocco Bergström
-1099	John Björsander
 1100	David Mattsén
 1101	Anton Löf
 1102	Erik Rask
@@ -1142,8 +1144,8 @@
 1142	Buster Afzelius
 1143	Ben Murray
 1144	Christoffer Calming
+1145	Jimmy Heina
 1145	Max Vetter
-1146	Jimmy Heina
 1147	Viktor Palm
 1148	Fred Flodman
 1149	Arvid Wiklander

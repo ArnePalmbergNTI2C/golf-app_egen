@@ -2,12 +2,12 @@ def switch(array, array2, array3)
 
     endgame = array3
 
-    i = 0
+    i = 2
     output = []
 
     while i < array.length
 
-        x = 0
+        x = 2
 
         while x < array2.length
     
@@ -17,7 +17,6 @@ def switch(array, array2, array3)
             while j < array2[x].length
 
                 array2[x] = array2[x].sub(/^\d+\s*/, '')
-
                 if array2[x][j] == array[i][j] 
                     string << array[i][j]
                 end
@@ -26,7 +25,6 @@ def switch(array, array2, array3)
 
             end
    
-
             if string.length == array[i].length
 
                 output << endgame[x]
@@ -88,8 +86,6 @@ def Mats(array)
                 temp = i
             end
 
-
-
             i += 1
         end
         new_array << array[temp]
@@ -101,17 +97,17 @@ def Mats(array)
 
 end
 
-array3 = File.readlines("golf_data.txt").map { |line| line.gsub(/[\t]/, ' ') }
-array2 = File.readlines("golf_data.txt").map { |line| line.gsub(/[\t]/, ' ') }
-array = File.readlines("personer.txt")
+array3 = File.readlines("../skriva/golf_data.txt").map { |line| line.gsub(/[\t]/, ' ') }
+array2 = File.readlines("../skriva/golf_data.txt").map { |line| line.gsub(/[\t]/, ' ') }
+array = File.readlines("../skriva/personer.txt")
 
 slut = switch(array, array2, array3)
-slut_fil = File.open("input.txt", "w")
+slut_fil = File.open("Inte_sorterad_lista.txt", "w")
 slut_fil.puts(slut)
 slut_fil.close
 
-array = File.readlines("input.txt")
+array = File.readlines("Inte_sorterad_lista.txt")
 bob = Mats(array)
-fil = File.open("output.txt", "w")
+fil = File.open("Sorterad_lista.txt", "w")
 fil.puts(bob)
 fil.close

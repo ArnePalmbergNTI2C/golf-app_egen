@@ -1,0 +1,83 @@
+OBS. Detta är namn listan. Här ska alla person från tävligen läggas in. Här ska det vara (Förnamn,Efternamn). T.ex Albert Hansson. Viktigt med Stor bokstav i förnamn och efternamn. Första namnet måste börja på rad 3. För att få fram namn listan kan man be chat gpt göra en lista genom att kopiera hela anmälningslistan från tävlingen.
+
+Albert Hansson
+Filip Grave
+Malte Wendt
+Elias Mårtensson
+Lars-Belvin Larsson
+Tim Odehn
+Junes Jeremias Chirband
+Ludwig Kohl
+Elias Bäckström
+Elliot Cornelius
+Kaj Ottosson
+Vincent Grip
+Victor Lundius
+William Svanström
+Oliver Henriks
+Erik Rask
+Truls Andersson
+Olle Tiberg
+Nicolas Liljedahl
+Holger Lans
+Erik Tykesson
+Nils Oderling
+Jacob Johansson
+Adam Mellberg
+Albin Blom
+Ludvig Lindö
+Oscar Toreld
+Hannes Freudenthal
+Elias Lindkvist
+Santiago Grundsten
+Elton Jönsson
+Pontus Klippmark
+Albin Ivarsson
+Benjamin Andersson
+Elias Haggren
+Erik Norén Nilsson
+Malte Dahlqvist
+Rasmus Seppänen
+Linus Gansow
+Karl-Axel Almholt
+Lucas Frohm
+Erik Ljungberg
+Leo Kadziolka
+Max Wahl
+Noel Weiss
+Kalle Stenson
+Emrik Olsson
+Wilmer Lindh
+Jonathan Ericsson
+Edvard Torstensson
+Tage Rosqvist
+Edvin Garmland
+Oscar Norlin
+William Tauson
+Jason Torrisi Lundqvist
+William Carestam
+Eskil Törefors
+Alfred Franzén Göransson
+Jonathan Lauritzen
+Albin Jonsén
+Viktor Lauritzen
+Johannes Nymark
+Oscar Hermansen
+Albert von Malortie
+Noach Flarke
+Dylan Nilsson
+Victor Lenormand Nilsson
+Hugo Palmgren
+Hugo Wellstam
+Elias Garmland
+Oskar Olsson
+Carl Hinton
+Melker Bohlin
+Oscar Bondebjer
+Jonathan Gustafsson
+Viktor Ludvigsson
+Hannes Heyne Sundqvist
+Kevin Nordell
+Theo Löfberg
+Milo Thim
+Isac Hylmark
