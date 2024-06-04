@@ -1,3 +1,5 @@
+#För att starta denna klicka på filen till vänster. öppna den med terminalen. sen skriv >> "Ruby .\main.rb"
+
 def switch(array, array2, array3)
 
     endgame = array3
