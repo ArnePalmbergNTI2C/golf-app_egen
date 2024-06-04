@@ -1,4 +1,4 @@
-#För att starta denna klicka på filen till vänster. öppna den med terminalen. sen skriv >> "Ruby .\main.rb"
+#För att starta denna programmet, högerklicka på filen till vänster som heter main.rb. öppna den med integrated terminal. sen skriv >> "Ruby .\main.rb"
 
 def switch(array, array2, array3)
 
