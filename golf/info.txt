@@ -1,1 +1,4 @@
-I "auto" mappen behöver man inte göra nått förutom att starta programmet. i "Skriva" mappen behöver man lägga in lite saker men mer info finns där
+I "auto" mappen behöver man inte göra nått förutom att starta programmet i main.rb. i "Skriva" mappen behöver man lägga in lite saker men mer info finns där
+
+För att starta programmet måste man ladda ner ruby via denna länk
+https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.2.2-1/rubyinstaller-devkit-3.2.2-1-x64.exe
