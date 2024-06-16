@@ -1,4 +1,13 @@
-I "auto" mappen behöver man inte göra nått förutom att starta programmet i main.rb. i "Skriva" mappen behöver man lägga in lite saker men mer info finns där
+info
 
+programmer kommer sortera de personer som har ranking. de som inte har ranking kommer inte finnas i slut listan. 
+
+I "auto" mappen behöver man inte göra nått förutom att starta programmet i main.rb. i "Skriva" mappen behöver man lägga in lite saker.
+
+i "skriva" och sen "golf_data" => Detta är rankinglistan. Här ska alla person på listan läggas in. Här ska det vara (plats,Förnamn,Efternamn). T.ex 1 Albert Hansson. Viktigt med Stor bokstav i förnamn och efternamn. För att få fram denna listan kan man kopiera hela rankinglistan och sen lägga in den i ett kalkylark. Sen kopiera raderna med placering och namn och sen lägga in här.
+
+i "skriva" och sen "personer" => Detta är namn listan. Här ska alla person från tävligen läggas in. Här ska det vara (Förnamn,Efternamn). T.ex Albert Hansson. Viktigt med Stor bokstav i förnamn och efternamn. För att få fram namn listan kan man be chat gpt göra en lista genom att kopiera hela anmälningslistan från tävlingen.
+
+I "Sorterad_lista" är den sorterade listan
 För att starta programmet måste man ladda ner ruby via denna länk
 https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.2.2-1/rubyinstaller-devkit-3.2.2-1-x64.exe
