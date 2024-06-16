@@ -4,12 +4,12 @@ def switch(array, array2, array3)
 
     endgame = array3
 
-    i = 2
+    i = 0
     output = []
 
     while i < array.length
 
-        x = 2
+        x = 0
 
         while x < array2.length
     
