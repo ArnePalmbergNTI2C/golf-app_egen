@@ -1,61 +1,61 @@
-Max Vetter
-Edvin Sinclair
-Marcus Jacobsson
-Edvin Carlsén
-Oscar Wollter
-Leo Lundell
-Sebastian Westervall
-Wille Lingmerth
-John Björsander
-Arne Palmberg
-Theodor Koponen
-Måns Billberg
-Ludvig Carlsson
-Ruben Hagnell
-Pontus Bodin
-Linus Olsson Bildtsén
-Oskar Olsson Bildtsén
-Erik Rask
-Axel Rask
-Felix Melander
-Noel Gellerskog
-Marcus Bondesson
-Isak Landin
-Elliot Cornelius
-Måns Magnebrant
-Valter Landegren
-Arvid Hultman
-Albin Ekstrand
-Carl Hovstadius
-Olle Jerneborn
-Leo Thessén
-Axel Backlund
-Felix Guldbrandsen
-Joel Hammar
-Wiktor Henriksson
-Ludvig Lindö
-Levi Bernhardtz
-Malte Alin
-Gustav Lagerstedt
 Alan Kvint
 Lars-Belvin Larsson
-Leon Lindfors Ohlsson
-Rasmus Seppänen
-Philip Dahlström
+Sebastian Westervall
+Edvin Sinclair
+Emil Berg
+Marcus Jacobsson
+Jesper Aarne
+Elliot Cornelius
 Elias Krantz
+John Björsander
 Max Nordenman Lindström
 Teo Nordenman Lindström
-Joakim Roxentjärn Österberg
-Elias Liedman
-Emil Berg
-Charlie Lundkvist
-Felix Lundkvist
-Ludvig Kristensson
+Simon Meiby
 Markus Svensson
-Måns Jisonsund
-William Gustafsson
-Lukas Envall
-Anton Hedliden
+Leo Lundell
+Arne Palmberg
+Erik Rask
+Axel Rask
+Edvin Carlsén
+Christopher Persson
+Nils Öholm
+Felix Melander
+Oskar Brunåker
+Erik Lindqvist
+Axel Ollén
+Ludvig Carlsson
 Sixten Larsson
-Douglas Törnblom
-Alexander Bergh
+David Bobic-Lindstrand
+Axel Backlund
+Erik Möller
+Ruben Hagnell
+Elton Wase
+Arvid Hultman
+Isak Waldemarson
+Ville Niemi
+William Kempe-Sjödin
+Max Eliasson
+Karl Jelander
+Leo Thessén
+Marcus Bondesson
+Albin Ekstrand
+Sebastian Hansson
+Måns Magnebrant
+Hector Gustafsson
+William Gustafsson
+Viktor Ekåsen
+Linus Olsson Bildtsén
+Oskar Olsson Bildtsén
+Carl Hovstadius
+Alvin Tillerkvist
+Jacob Axelsson
+Elias Liedman
+Nils Thoreström
+William Owaldius
+David Wallgren
+Måns Liljekvist
+
+
+
+
+
