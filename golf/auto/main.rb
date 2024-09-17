@@ -17,8 +17,8 @@ def switch(array, array2, array3)
             string = ""
     
             while j < array2[x].length
-
                 array2[x] = array2[x].sub(/^\d+\s*/, '')
+                array2[x] = array2[x].sub(/\s+\d{1,3}(?:\s\d{3})*(,\d+)?\s*$/, '')
                 if array2[x][j] == array[i][j] 
                     string << array[i][j]
                 end
@@ -26,8 +26,9 @@ def switch(array, array2, array3)
                 j += 1
 
             end
-   
-            if string.length == array[i].length
+
+
+            if string.length == array[i].length - 1
 
                 output << endgame[x]
             
@@ -50,9 +51,11 @@ def Mats(array)
     new_array = []
     
     while array.length > 0
+
         i = 0
         minsta = 1000000
         while i < array.length
+            vari = true
 
             x = 0
 
@@ -60,8 +63,7 @@ def Mats(array)
             bob = 0
 
 
-            while x < array[i].length
-
+            while x < array[i].length && vari == true
 
                 j = 0
 
@@ -73,7 +75,12 @@ def Mats(array)
                         bob += sum.to_f
 
                     end
+                    if x >= 4
 
+                        if array[i][x].to_i == 0
+                            vari = false
+                        end
+                    end
                     j += 1
 
                 end

@@ -1,55 +1,81 @@
-135 Elton Wase
-141 Lars-Belvin Larsson
-157 William Kempe-Sjödin
-170 Emil Berg
-176 Elias Krantz
-200 Max Nordenman Lindström
-205 Alan Kvint
-209 Max Eliasson
-254 Markus Svensson
-266 Linus Olsson Bildtsén
-286 Marcus Jacobsson
-296 Simon Meiby
-298 Albin Ekstrand
-319 Ruben Hagnell
-378 Erik Möller
-396 Sebastian Hansson
-427 Ludvig Carlsson
-444 Elliot Cornelius
-485 David Bobic-Lindstrand
-511 Arne Palmberg
-550 Carl Hovstadius
-588 Christopher Persson
-594 Oskar Olsson Bildtsén
-605 Axel Backlund
-615 Edvin Carlsén
-621 Leo Lundell
-645 William Gustafsson
-668 Karl Jelander
-724 Elias Liedman
-744 Teo Nordenman Lindström
-747 Jacob Axelsson
-761 David Wallgren
-800 Isak Waldemarson
-819 Arvid Hultman
-822 Edvin Sinclair
-859 Jesper Aarne
-893 Måns Liljekvist
-915 Alvin Tillerkvist
-925 Hector Gustafsson
-926 Leo Thessén
-988 Sebastian Westervall
-997 Viktor Ekåsen
-1001 Axel Rask
-1002 Måns Magnebrant
-1003 Erik Rask
-1011 Nils Öholm
-1028 William Owaldius
-1064 Erik Lindqvist
-1092 Marcus Bondesson
-1100 John Björsander
-1227 Sixten Larsson
-1245 Oskar Brunåker
-1276 Felix Melander
-1351 Ville Niemi
-1463 Axel Ollén
+15 Malte Lindell 937,52
+38 Erik Tjärnberg 455,70
+57 Rasmus Gross 322,57
+62 Carl Landh 301,73
+74 Wilhelm Kristoffersen 277,18
+88 Isac Hylmark 242,41
+92 Ludwig Libera 228,9
+99 Olle Evald 219,7
+102 Erik Ljungberg 212,58
+104 Jacob Johansson 210,73
+111 Milo Thim 197,64
+118 Anton Clausen 190,82
+122 Malte Dahlqvist 184,31
+127 Filip Fredriksson 176,93
+132 Malte Wendt 169,66
+146 Gustav Hedberg 157,45
+152 Viktor Hedberg 150,4
+170 Filiph Dock 135,92
+174 Eskil Törefors 133,77
+179 Karl-Axel Almholt 130,73
+180 Johannes Nymark 130,28
+194 Max Wahl 120,78
+195 Axel Elmlund 120,64
+196 Victor Lundius 118,93
+199 Alexander Gustavsson 115,17
+201 Sam Helgstedt 113,24
+203 Alfred Borin 111,87
+209 August Rydberg 108
+218 Elias Lindkvist 102,45
+233 Nils Oderling 94,49
+239 Benjamin Andersson 92,55
+247 Max Nordenman Lindström 90,86
+252 Axel Lindow 88,22
+274 Olle Bergqvist 78,51
+285 Max Drennow 74,7
+289 Malte Lindell 73,28
+293 Vilmer Nilsson 72,28
+298 Markus Svensson 70,88
+300 Nils Holm 69,52
+303 Isak Wahlbom Klarby 68,36
+305 Sebastian Hansson 67,65
+308 Ossian Olsson 66,96
+311 Oscar Hermansen 66,07
+324 Gustav Hedberg 61,37
+334 Benjamin Lennebrant 59,13
+339 Svante Bratt 58,17
+341 Gustav Karlsson 57,73
+350 Kaj Ottosson 55,24
+351 Dylan Nilsson 54,76
+358 Simon Meiby 53,9
+359 Isac Ammenberg 53,81
+363 Gustav Smidfelt 52,39
+364 Elliot Cornelius 52,15
+375 Hugo Ivarsson 49,42
+381 Theo Johansson 47,55
+397 Ludwig Rothoff Lindkvist 44,5
+398 Ludvig Carlsson 44,43
+408 William Tauson 42,97
+413 Vilgot Arlebäck 42,25
+420 Nils Stenbeck Billing 41,23
+431 Arvid Nordblad 39,87
+435 Victor Zachrisson 38,82
+438 Elliot Winell 38,66
+439 Erik Modéer 38,42
+447 Karl Sandberg 37,55
+456 Jonathan Lauritzen 36,89
+488 Anton Månsson 31,68
+493 Gustav Nottehed 31,16
+508 Adam Mellberg 29,63
+514 Ludwig Lundgren 28,76
+522 Victor Lenormand Nilsson 28,33
+523 Viktor Ludvigsson 28,32
+540 Jonatan Olsson 25,62
+554 Alex Andrés 24,35
+557 Teo Nordenman Lindström 23,99
+561 Viktor Johansson 23,66
+564 Lucas Frohm 23,54
+565 Hugo Dahlin 23,41
+572 Hugo Palmgren 22,97
+579 Nils Näslund 22,68
+587 Arne Palmberg 22,11
