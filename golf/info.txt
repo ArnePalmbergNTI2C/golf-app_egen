@@ -4,10 +4,12 @@ programmer kommer sortera de personer som har ranking. de som inte har ranking k
 
 I "auto" mappen behöver man inte göra nått förutom att starta programmet i main.rb. i "Skriva" mappen behöver man lägga in lite saker.
 
-i "skriva" och sen "golf_data" => Detta är rankinglistan. Här ska alla person på listan läggas in. Här ska det vara (plats,Förnamn,Efternamn). T.ex 1 Albert Hansson. Viktigt med Stor bokstav i förnamn och efternamn. För att få fram denna listan kan man kopiera hela rankinglistan och sen lägga in den i ett kalkylark. Sen kopiera raderna med placering och namn och sen lägga in här.
+i "skriva" och sen "golf_data" => Detta är rankinglistan. Här ska alla person på listan läggas in. Här ska det vara (plats,Förnamn,Efternamn, ranking). T.ex 1 Albert Hansson 25. Viktigt med Stor bokstav i förnamn och efternamn. För att få fram denna listan kan man kopiera hela rankinglistan och sen lägga in den i ett kalkylark. Sen kopiera raderna med placering och namn och ranking och sen lägga in här.
 
 i "skriva" och sen "personer" => Detta är namn listan. Här ska alla person från tävligen läggas in. Här ska det vara (Förnamn,Efternamn). T.ex Albert Hansson. Viktigt med Stor bokstav i förnamn och efternamn. För att få fram namn listan kan man be chat gpt göra en lista genom att kopiera hela anmälningslistan från tävlingen.
 
 I "Sorterad_lista" är den sorterade listan
 För att starta programmet måste man ladda ner ruby via denna länk
 https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.2.2-1/rubyinstaller-devkit-3.2.2-1-x64.exe
+
+Kommer bli lite konstigt om två personer har samma för och efternamn så om man ser att någon har det får man kolla för hand p just de personerna. Programmet kommer att de den bästa två gånger om det är 2 samma. 

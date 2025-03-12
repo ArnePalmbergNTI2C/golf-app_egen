@@ -1,97 +1,111 @@
-Karl-Axel Almholt
-August Rydberg
-Wilmer Lindh
-Caesar Sjöström
-Axel Wicander
-Franz Drennow
-Max Drennow
-Ebbe Blohmé
-Malte Wendt
-Fabian Parkhagen
-Axel Ramstedt
-Hugo Sandblom
-Ludvig Carlsson
-Ludvig Lindö
-Alex Tölldén
-Hugo Avervik
-Max Montgomery Strandberg
-Max Sellman
-Markus Svensson
-Filip Fredriksson
-Ludvig Mineur
-Björn Allen
-Hampus Gross
-Philip Lingefjärd Gyllencreutz
-Hugo Wellstam
-Johan Hillgård
-Edvard Torstensson
-Vincent Torstensson
 Olle Jerneborn
-Alan Kvint
-Sigge Unger
-Oscar Bondebjer
+Oliver Nilsson
+Frans Wittlock
+August Follin
 Elias Bäckström
-Milton Duvander
-Linus Gansow
-Carl Hinton
-Leo Kadziolka
-Victor Lundius
-Tim Mattson
-Elias Mårtensson
-Emil Norén Nilsson
-Erik Norén Nilsson
-Tage Rosqvist
-Hampus Stenfeldt
-Albert von Malortie
-William White
-Wilmer Broman
-Justin Hunjan
-Wilhelm Kristoffersen
-Oskar Jansson
-Anton Grönberg
-Alfons Isaksson
-Elias Liedman
-Emil Fogelberg
-Gustav Klippmark
-Tom Silfverling
-Emrik Johansson
-Julius Martinaitis
-Gustav Oscarson
-Erik Berg
-Gustav Lif
-Ville Thor
-Ludvig Bolin
-Oscar Eliz
-Dylan Nilsson
-Ludwig Johansson
-Wincent Lackdal
-Alexander Werleskog
-Alvin Cato
-Theo Johansson
-Simon Pieplow
-Isak Strandberg Olsson
-Olle Strandberg Olsson
-Dennis Halalkic
-Lukas Johnsson
+Max Drennow
+Franz Drennow
 Leo Lundell
 Filip Lövberg Alm
-Ben Murray
-Adam Bargisen
-Loke Nilsson
-Thomas Nilsson
-Philip Reslow
-Alvin Wiberg
-Valter Örtenblad
 Nicolas Liljedahl
-Hugo Peetz
-Melvin Peetz
+Lars Linnman
+Wilmer Broman
+Hugo Pettersson
+Fabian Parkhagen
+Karl Axel Sundberg
+Axel Ramstedt
+Filip Fredriksson
+Fred Tihof
 Teo Rundin
-Melvin Swedblom
-Gustav Bülow
-Jonathan Sahlén
+Hampus Stenfeldt
+Tim Mattson
+Max Sellman
+Alexander Appelqvist Karlsson
+Edvard Torstensson
+Filip Bodén
+Carl Hinton
+Dennis Halalkic
+Vincent Lundmark
+Lukas Johnsson
+Fred Abrahamsson Gjersvold
+Philip Lingefjärd Gyllencreutz
+Hugo Sandblom
+Emil Norén Nilsson
+Erik Norén Nilsson
 Elliot Kjellberg
+Olle Strandberg Olsson
+Isak Strandberg Olsson
+Ludvig Carlsson
+Ebbot Klasson
+Caesar Sjöström
+Alexander Werleskog
+Adam Bargisen
+Charlie Rankell
+Otto Almgren
+Hannes Heyne Sundqvist
+Albert von Malortie
+Axel Wicander
 Måns Billberg
-Erik Rask
-Torsten Ebbinghaus
+Simon Hultén
+Loke Nilsson
+Emil Fogelberg
+Hugo Sand
+Malte Wendt
+Henry Nord
+Thomas Nilsson
+Linus Gansow
+Joel Hammar
+Vincent Åsgård
+Philip Dahlström
+Gustav Klippmark
+Julius Martinaitis
+Ben Murray
+Hampus Gross
+Lukas Envall
+Gustav Albin
+August Näslund
+Björn Allen
+Elias Liedman
+Theo Johansson
+Oscar Bondebjer
+Tor Zachrisson
+Gustav Bülow
+Hugo Gårdhagen Helinsky
+Max Albertsson
+Anton Johansson Kajrup
+John Larsson
+Leo Itayem
+Vincent Torstensson
+Johannes Nymark
+Anonymous Anonymous
+Edvin Mattsson
+Joel Mattsson
+Oscar Lund
+Alfred Franzén Göransson
+Viggo Larsén
+Hugo Avervik
+Fabian Tykesson
+Hugo Phillips
+Oscar Wennerholm
+August Stenehav
+Ludvig Ransjö
+Ebbe Isaksson
 Lukas Nelander
-Tom Lennehag
+Gustav Karlsson
+Gasper Verner
+Torsten Ebbinghaus
+Olle Torstensson
+Oscar Sjöberg
+Alex Andrés
+Erik Fogelberg
+Karl Jelander
+Simon Österberg
+Edvin Garmland
+Victor Lenormand Nilsson
+Sixten Wallin-Hermansson
+Olle Brandström
+Benjamin Andersson
+Mohammad Yusef Kayani
+Melvin Peetz
+Gustav Nilsson
+Leo Kadziolka
