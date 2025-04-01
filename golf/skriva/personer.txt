@@ -1,111 +1,90 @@
-Olle Jerneborn
-Oliver Nilsson
-Frans Wittlock
-August Follin
-Elias Bäckström
-Max Drennow
-Franz Drennow
-Leo Lundell
-Filip Lövberg Alm
-Nicolas Liljedahl
-Lars Linnman
-Wilmer Broman
-Hugo Pettersson
-Fabian Parkhagen
-Karl Axel Sundberg
-Axel Ramstedt
-Filip Fredriksson
-Fred Tihof
-Teo Rundin
-Hampus Stenfeldt
-Tim Mattson
-Max Sellman
-Alexander Appelqvist Karlsson
-Edvard Torstensson
-Filip Bodén
-Carl Hinton
-Dennis Halalkic
-Vincent Lundmark
-Lukas Johnsson
-Fred Abrahamsson Gjersvold
-Philip Lingefjärd Gyllencreutz
-Hugo Sandblom
-Emil Norén Nilsson
-Erik Norén Nilsson
-Elliot Kjellberg
-Olle Strandberg Olsson
-Isak Strandberg Olsson
-Ludvig Carlsson
-Ebbot Klasson
-Caesar Sjöström
-Alexander Werleskog
+Ludvig Sederholm
+Vincent Grip
+Albin Wahlberg
+Filip Kindberg Bakos
+Alan Kvint
+Oscar Wollter
+Lukas Gunnebrant
 Adam Bargisen
-Charlie Rankell
-Otto Almgren
-Hannes Heyne Sundqvist
-Albert von Malortie
-Axel Wicander
-Måns Billberg
-Simon Hultén
-Loke Nilsson
-Emil Fogelberg
-Hugo Sand
+Oscar Stendahl
+Lukas Johannesson
+Victor Björkqvist
+Lukas Gyllin
+Emil Berg
+Caesar Sjöström
 Malte Wendt
-Henry Nord
+August Bärgård
+Elliot Cornelius
+Olle Jerneborn
+Erik Björklund
 Thomas Nilsson
-Linus Gansow
-Joel Hammar
-Vincent Åsgård
-Philip Dahlström
-Gustav Klippmark
-Julius Martinaitis
-Ben Murray
-Hampus Gross
-Lukas Envall
-Gustav Albin
-August Näslund
-Björn Allen
-Elias Liedman
-Theo Johansson
-Oscar Bondebjer
-Tor Zachrisson
-Gustav Bülow
-Hugo Gårdhagen Helinsky
-Max Albertsson
-Anton Johansson Kajrup
-John Larsson
-Leo Itayem
-Vincent Torstensson
+William Ekblad
+Holger Lans
+Vilgot Forssman
+Fred Flodman
+Lars Linnman
+Oscar Wong
+Kevin Nordell
+Philip Kjellander
+William Tauson
+Filiph Dock
+Malte Samuelsson
+Edvin Carlsén
+Wilmer Lindh
+Alfons Isaksson
+Viktor Ludvigsson
+Vilmer Nilsson
+Mario Reidmar
+Linus Råstedt
+Loke Nilsson
+Hugo Palmgren
+Ludvig Richardson
+Oscar Krantz
+Malte Forslund
+Viggo Selander
+Markus Svensson
+Hugo Nordahl
+Ludvig Haglund
 Johannes Nymark
-Anonymous Anonymous
-Edvin Mattsson
-Joel Mattsson
-Oscar Lund
-Alfred Franzén Göransson
-Viggo Larsén
+Oscar Tegeback
 Hugo Avervik
-Fabian Tykesson
-Hugo Phillips
-Oscar Wennerholm
-August Stenehav
+Filip Svensson
+Gustav Holmberg
+Lucas Bohlin
+Filip Anderson
+Anton Pettersson
+Nicolas Liljedahl
+Sam Helgstedt
+Vilgot Andersson Wiland
+Alvin Andersson Wiland
 Ludvig Ransjö
-Ebbe Isaksson
+Wilmer Mallin
+Viktor Bergstedt Westergren
+Adrian Bergqvist
+Elliot Ekman
+Arvid Utas-Lagerström
+Erik Norén Nilsson
+Nils Holm
+Viggo Larsén
 Lukas Nelander
+Nils Oderling
+Alvin Cato
 Gustav Karlsson
-Gasper Verner
-Torsten Ebbinghaus
-Olle Torstensson
-Oscar Sjöberg
-Alex Andrés
-Erik Fogelberg
-Karl Jelander
-Simon Österberg
-Edvin Garmland
-Victor Lenormand Nilsson
-Sixten Wallin-Hermansson
-Olle Brandström
-Benjamin Andersson
-Mohammad Yusef Kayani
-Melvin Peetz
-Gustav Nilsson
-Leo Kadziolka
+Theodor Berg
+Carl Hinton
+Victor SamuelssonLöwenadler
+Filip Fosser
+Oskar Olsson
+Filip Stigeberg
+Mikael Söderborg
+Maximilian Björnström
+Ebbe Blohmé
+Viktor Karlberg
+Theo Löfberg
+Isac Hylmark
+Albert Önnerlid
+Wincent Lackdal
+Gustav Sterner
+Vinnie Berglund
+Oscar Norlin
+Eric Norlin
